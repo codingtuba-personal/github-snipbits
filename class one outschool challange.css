@@ -1,0 +1,11 @@
+/* setting the html's background color */
+html {
+    background-color: black;
+}
+
+/* setting the body's background color */
+body {
+    background-color: #000;
+}
+
+/* you can also set the background color by using rgba(0,0,0,0) */
